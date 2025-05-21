@@ -1,0 +1,14 @@
+create repo in github:   completed 
+create a new file in repo : completed
+edit and commit changes: completed 
+create a new folder in pc for git (new): completed
+vs code -> file -> open folder -> newf
+open terminal
+git chlone url
+cd new
+newf -> view -> hidden -> .git
+create new file
+u -> git status 
+git add newfile.txt
+git commit -m "newfile.txt created"
+git push origin main
