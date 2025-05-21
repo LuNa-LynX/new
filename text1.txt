@@ -2,12 +2,12 @@ create repo in github:   completed
 create a new file in repo : completed
 edit and commit changes: completed 
 create a new folder in pc for git (new): completed
-vs code -> file -> open folder -> newf
-open terminal
-git chlone url
-cd new
-newf -> view -> hidden -> .git
-create new file
+vs code -> file -> open folder -> newf:completed
+open terminal:completed
+git chlone url:completed
+cd new:completed
+newf -> view -> hidden -> .git:completed
+create new file:pending
 u -> git status 
 git add newfile.txt
 git commit -m "newfile.txt created"
